@@ -7,7 +7,7 @@ int main() {
     int res = 0;
 
     //Hello world printing
-    printf("Hello World!\n");
+    printf("Hello World! Hola mundo.\n");
 
     //Sum saved in variable res
     res = 5 + 3;
